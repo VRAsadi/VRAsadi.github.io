@@ -3049,6 +3049,7 @@ input, select, textarea {
 					#titleBar .title a {
 						border: 0;
 						text-decoration: none;
+						color: #fff;
 					}
 
 				#titleBar .toggle {
