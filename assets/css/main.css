@@ -100,9 +100,9 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: #888;
 		font-family: "Lato", sans-serif;
-		font-size: 16pt;
+		font-size: 15pt;
 		font-weight: 400;
-		line-height: 1.75em;
+		line-height: 1.45em;
 	}
 
 	a {
@@ -154,6 +154,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.75em;
 		line-height: 1.5em;
+		color: #e43f5a;
 	}
 
 	h4 {
@@ -2829,7 +2830,7 @@ input, select, textarea {
 	}
 
 		#main > section > .container {
-			padding: 6em 0 4em 0;
+			padding: 3em 0 2em 0;
 		}
 
 		#main > section:first-child {
@@ -2843,7 +2844,7 @@ input, select, textarea {
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
+		padding: 0.5em 0 0.5em 0;
 	}
 
 		#footer .copyright {
@@ -2903,7 +2904,7 @@ input, select, textarea {
 		/* Main */
 
 			#main > section > .container {
-				padding: 4em 0 2em 0;
+				padding: 3em 0 2em 0;
 			}
 
 	}
